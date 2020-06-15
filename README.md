@@ -1,4 +1,4 @@
-# dataMining
+# Recommendation Systems study using various Data Mining models on YELP dataset
 
 This repository contains various Recommendation Systems applied on the YELP datasets. 
 An analysis of the methods include:
