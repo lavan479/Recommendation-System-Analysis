@@ -7,9 +7,9 @@ An analysis of the methods include:
 2) XGB Classifier Recommendation System - RMSE - 1.1233006533310417
 3) Random Forest Recommendation System - RMSE - 1.1115634187190373
 4) XGB Regressor + ItemBased Recommendation System - RMSE - 0.9888215620443787
-5) Keras Based Recommendation System  - 1.0456785432
+5) Keras Based Recommendation System  - RMSE 1.0456785432
 
-#Input Dataset
+Input YELP Dataset - https://www.yelp.com/dataset/documentation/main
 The vaious files used as inputs are in the order of arguments:
 1) yelp_train.csv
 2) user.json
